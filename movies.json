@@ -1,5 +1,4 @@
-﻿{
-  "movies": [
+[
     {
       "id": 550988,
       "overview": "A bank teller called Guy realizes he is a background character in an open world video game called Free City that will soon go offline.",
@@ -119,5 +118,4 @@
       "title": "Don't Breathe 2",
       "rating": 7.7
     }
-  ]
-}
+]
